@@ -1,0 +1,6 @@
+{
+  "name": "Mathematical Heartbeat Animation",
+  "description": "An interactive, math-based dynamic heart particle system demonstrating customizable parametric equations, beat options, and beautiful visual parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
